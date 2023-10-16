@@ -1,1 +1,2 @@
 # programinf
+Jakub woźniak
